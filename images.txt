@@ -1,3 +1,3 @@
 nginx
-mysql:8
+mysql:8.0.19
 openjdk:8
